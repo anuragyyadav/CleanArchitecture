@@ -1,0 +1,13 @@
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\bin\Debug\netcoreapp3.1\WeatherForecasts1.Application.deps.json
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\bin\Debug\netcoreapp3.1\WeatherForecasts1.Application.dll
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\bin\Debug\netcoreapp3.1\WeatherForecasts1.Application.pdb
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\bin\Debug\netcoreapp3.1\WeatherForecasts1.Core.dll
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\bin\Debug\netcoreapp3.1\WeatherForecasts1.Core.pdb
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\obj\Debug\netcoreapp3.1\WeatherForecasts1.Application.csproj.AssemblyReference.cache
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\obj\Debug\netcoreapp3.1\WeatherForecasts1.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\obj\Debug\netcoreapp3.1\WeatherForecasts1.Application.AssemblyInfoInputs.cache
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\obj\Debug\netcoreapp3.1\WeatherForecasts1.Application.AssemblyInfo.cs
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\obj\Debug\netcoreapp3.1\WeatherForecasts1.Application.csproj.CoreCompileInputs.cache
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\obj\Debug\netcoreapp3.1\WeatherForecasts1.Application.csproj.CopyComplete
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\obj\Debug\netcoreapp3.1\WeatherForecasts1.Application.dll
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Application\obj\Debug\netcoreapp3.1\WeatherForecasts1.Application.pdb

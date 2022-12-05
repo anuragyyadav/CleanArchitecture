@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/WeatherForecasts1/.vs/WeatherForecasts1
+/WeatherForecasts1/WeatherForecasts1.Web/bin/Debug/netcoreapp3.1
+/WeatherForecasts1/WeatherForecasts1.Web/obj

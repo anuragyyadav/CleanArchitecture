@@ -1,0 +1,10 @@
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\bin\Debug\netcoreapp3.1\WeatherForecasts1.Core.deps.json
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\bin\Debug\netcoreapp3.1\WeatherForecasts1.Core.dll
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\bin\Debug\netcoreapp3.1\WeatherForecasts1.Core.pdb
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\obj\Debug\netcoreapp3.1\WeatherForecasts1.Core.csproj.AssemblyReference.cache
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\obj\Debug\netcoreapp3.1\WeatherForecasts1.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\obj\Debug\netcoreapp3.1\WeatherForecasts1.Core.AssemblyInfoInputs.cache
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\obj\Debug\netcoreapp3.1\WeatherForecasts1.Core.AssemblyInfo.cs
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\obj\Debug\netcoreapp3.1\WeatherForecasts1.Core.csproj.CoreCompileInputs.cache
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\obj\Debug\netcoreapp3.1\WeatherForecasts1.Core.dll
+D:\Anurag Yadav\Learning\ScratchApplications\TestRepository\WeatherForecasts1\WeatherForecasts1.Core\obj\Debug\netcoreapp3.1\WeatherForecasts1.Core.pdb
